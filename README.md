@@ -1,5 +1,6 @@
 # djangoPollApp
 
+![Image of Cart](https://github.com/mchadds/MongoDB-MflixProj/blob/main/images/M220JS_proof_of_completion.jpg)
 ## Description 
 A polling application built using the django framework. The purpose of the project is to become familiar the MVC methodology utilized in Django.
 
